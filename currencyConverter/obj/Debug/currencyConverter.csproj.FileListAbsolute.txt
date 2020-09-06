@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\bin\Debug\currencyConverter.exe.config
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\bin\Debug\currencyConverter.exe
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\bin\Debug\currencyConverter.pdb
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\obj\Debug\currencyConverter.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\obj\Debug\currencyConverter.Properties.Resources.resources
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\obj\Debug\currencyConverter.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\obj\Debug\currencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\obj\Debug\currencyConverter.exe
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\obj\Debug\currencyConverter.pdb
+C:\Users\Julian\source\repos\currencyConverter\currencyConverter\obj\Debug\currencyConverter.currencyConvert.resources
